@@ -170,5 +170,5 @@ Search and replace color codes in css/style.css
 
 ## Support
 For any questions or customizations:
-- Email: nizamabad.jkc@gmail.com
+- Email: sai@documounttech.in
 - Phone: 08462-222222
