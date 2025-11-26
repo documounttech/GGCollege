@@ -213,6 +213,6 @@ Mobile Support: Fully responsive
 
 ---
 
-**Developer:** Venu
+**Developer:** DOCUMOUNT TECHNOLOGIES
 **Date:** November 26, 2025
 **Status:** ✅ COMPLETE & READY FOR DEPLOYMENT

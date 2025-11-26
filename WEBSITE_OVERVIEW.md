@@ -232,7 +232,7 @@ setInterval(nextSlide, 5000);  // Change 5000 to desired milliseconds
 - Phone: 08462-222222
 - Email: nizamabad.jkc@gmail.com
 
-**Website Developer:** Venu
+**Website Developer:** DOCUMOUNT TECHNOLOGIES
 **Year:** 2025
 **Framework:** Pure HTML5 + CSS3 + JavaScript
 
