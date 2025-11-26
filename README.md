@@ -80,7 +80,7 @@ Quick access links to:
 **Name:** Giriraj Government College (Autonomous)
 **Location:** Dubba Road, Nizamabad, 503002, Telangana
 **Phone:** 08462-222222
-**Email:** nizamabad.jkc@gmail.com
+**Email:** sai@documounttech.in
 **Affiliation:** Telangana University
 **Accreditation:** NAAC 'B' Grade
 
@@ -164,7 +164,7 @@ Search and replace color codes in css/style.css
 - Virtual campus tour
 
 ## Credits
-**Developed by:** Venu
+**Developed by:** SAILU MILTRY
 **Year:** 2025
 **Institution:** Giriraj Government College
 
